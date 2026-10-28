@@ -1,0 +1,6 @@
+print("-----------práctica-----------")
+print("escribe 3 bariablesmaximo ")
+a=input("mi curso favorito:")
+b=input("mi comida favorita:")
+c=input("mi nombre:")      
+print("hola soy",c,"mi comida favorita es",b,"y mi comida favorita es",a,"grasias.")
